@@ -1,0 +1,36 @@
+[
+  {
+    "id": "mv-hondius-capvert",
+    "title": "Hantavirus - MV Hondius",
+    "eventType": "cluster",
+    "country": "Cap-Vert",
+    "locationLabel": "MV Hondius au large du Cap-Vert",
+    "latitude": 16.0,
+    "longitude": -24.0,
+    "caseCount": 2,
+    "deathCount": 0,
+    "status": "confirmed",
+    "confidenceLevel": "high",
+    "eventDate": "2026-05-06",
+    "sourceName": "Reuters",
+    "sourceUrl": "https://www.reuters.com/",
+    "notes": "Cas liés au navire de croisière MV Hondius."
+  },
+  {
+    "id": "tenerife-transfer",
+    "title": "Transfert médical - Tenerife",
+    "eventType": "transfer",
+    "country": "Espagne",
+    "locationLabel": "Tenerife",
+    "latitude": 28.46,
+    "longitude": -16.25,
+    "caseCount": 1,
+    "deathCount": 0,
+    "status": "suspected",
+    "confidenceLevel": "medium",
+    "eventDate": "2026-05-07",
+    "sourceName": "Source à confirmer",
+    "sourceUrl": "",
+    "notes": "Point lié au suivi logistique de l’événement."
+  }
+]
